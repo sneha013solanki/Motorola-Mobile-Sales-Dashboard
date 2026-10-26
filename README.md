@@ -24,7 +24,7 @@ This project uses Microsoft Power BI to analyze Motorola mobile sales data and p
 
 ## Dashboard Preview
 
-![Motorola Mobile Sales Dashboard](Dashboard-preview.png)
+![Motorola Mobile Sales Dashboard](./Dashboard-preview.png)
 
 ### Objective
 
